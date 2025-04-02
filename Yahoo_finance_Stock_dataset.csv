@@ -1,0 +1,68 @@
+name,symbol,price_usd,change,volumne_m,market_cap_billion,pe_ratio
+"Tesla, Inc.",TSLA,265.89,-2.57,62.096,855.241,130.34
+Waton Financial Limited Ordinary Shares,WTF,9.24,-10.61,5.313,445.594,231.09
+Palantir Technologies Inc.,PLTR,85.96,1.28,36.197,201.607,452.42
+"Lucid Group, Inc.",LCID,2.405,-0.125,35.907,7.291,
+Ford Motor Company,F,10.13,0.19,33.726,40.282,6.94
+"Rivian Automotive, Inc.",RIVN,12.61,-0.66,24.269,14.264,
+American Airlines Group Inc.,AAL,10.48,0.18,19.08,6.888,8.45
+"Rocket Companies, Inc.",RKT,14.25,1.65,17.193,28.319,67.86
+BlackBerry Limited,BB,3.395,-0.335,16.798,2.008,
+"MARA Holdings, Inc.",MARA,12.48,0.64,16.385,4.318,7.26
+"Intra-Cellular Therapies, Inc.",ITCI,131.87,0.0,16.042,14.047,
+Intel Corporation,INTC,21.84,-0.2,14.804,95.257,
+"Robinhood Markets, Inc.",HOOD,42.12,-0.04,14.063,37.296,27.0
+"Super Micro Computer, Inc.",SMCI,34.96,-0.09,13.877,20.745,15.2
+Transocean Ltd.,RIG,3.165,-0.155,13.802,2.782,
+"iQIYI, Inc.",IQ,2.155,-0.075,13.578,2.075,19.59
+NIO Inc.,NIO,3.795,-0.075,13.144,7.72,
+"Rigetti Computing, Inc.",RGTI,8.21,0.4,13.098,2.347,
+Nu Holdings Ltd.,NU,10.27,-0.16,13.064,49.388,25.69
+AT&T Inc.,T,28.5,0.02,12.302,204.542,19.12
+B2Gold Corp.,BTG,2.9,0.0,12.271,3.827,
+"IonQ, Inc.",IONQ,24.76,1.57,12.067,5.915,
+Telefonaktiebolaget LM Ericsson (publ),ERIC,7.74,-0.05,11.05,26.088,
+"SoFi Technologies, Inc.",SOFI,12.18,0.27,11.062,13.35,31.22
+"nCino, Inc.",NCNO,21.28,-6.84,10.516,2.464,
+"nCino, Inc.",NCNO,21.21,-6.91,10.541,2.456,
+Snap Inc.,SNAP,8.88,-0.06,10.095,15.055,
+Lloyds Banking Group plc,LYG,3.815,0.005,10.159,57.59,11.92
+"Amazon.com, Inc.",AMZN,192.38,0.21,10.049,2039.0000000000002,34.79
+Pfizer Inc.,PFE,24.7,0.16,9.881,140.065,17.52
+Amcor plc,AMCR,9.63,-0.18,9.784,13.919,17.51
+"Warner Bros. Discovery, Inc.",WBD,10.32,0.11,9.527,25.342,
+"Riot Platforms, Inc.",RIOT,7.81,0.27,9.256,2.735,22.97
+"Hims & Hers Health, Inc.",HIMS,29.84,-1.21,9.175,6.629,56.3
+Nebius Group N.V.,NBIS,23.35,0.66,8.966,5.505,
+Apple Inc.,AAPL,224.05,0.86,8.433,3366.0,35.62
+"CleanSpark, Inc.",CLSK,7.8,0.24,8.033,2.192,
+PG&E Corporation,PCG,17.47,0.2,7.905,38.322,15.19
+Bank of America Corporation,BAC,41.71,0.22,7.843,317.113,12.99
+"Core Scientific, Inc.",CORZ,8.02,0.02,7.717,2.365,
+Barclays PLC,BCS,15.59,0.19,7.69,55.772,8.66
+New Gold Inc.,NGD,3.555,-0.095,8.891,2.813,25.39
+"SoundHound AI, Inc.",SOUN,8.58,0.38,7.295,3.421,
+"Lyft, Inc.",LYFT,12.66,0.44,7.058,5.294,211.08
+Grab Holdings Limited,GRAB,4.525,-0.025,6.79,18.435,
+Alphabet Inc.,GOOGL,156.54,-0.53,6.609,1918.0,19.47
+Trump Media & Technology Group Corp.,DJT,18.98,-1.28,6.508,4.183,
+Barrick Gold Corporation,GOLD,19.41,-0.25,6.521,33.408,15.89
+"Advanced Micro Devices, Inc.",AMD,102.72,-0.06,6.366,166.931,102.75
+Cleveland-Cliffs Inc.,CLF,8.34,0.23,6.34,4.119,
+Veren Inc.,VRN,6.63,0.01,6.092,4.056,20.72
+AGNC Investment Corp.,AGNC,9.44,-0.05,6.079,8.638,10.15
+Alibaba Group Holding Limited,BABA,130.43,-2.27,6.038,311.524,19.01
+Walmart Inc.,WMT,90.04,1.21,5.901,721.837,37.36
+"Altria Group, Inc.",MO,57.51,-1.28,5.892,97.238,8.79
+Pactiv Evergreen Inc.,PTVE,18.01,0.0,0.0,3.269,
+Archer Aviation Inc.,ACHR,7.07,0.11,5.681,3.833,
+ADT Inc.,ADT,8.27,0.11,5.66,7.083,12.53
+Stellantis N.V.,STLA,11.1,0.01,5.631,32.037,5.58
+Vale S.A.,VALE,9.97,-0.14,5.602,42.538,6.92
+"Recursion Pharmaceuticals, Inc.",RXRX,5.28,0.19,5.603,2.123,
+IAMGOLD Corporation,IAG,6.39,0.07,5.353,3.67,4.26
+Verizon Communications Inc.,VZ,45.04,-0.34,5.248,189.606,10.88
+"Stericycle, Inc.",SRCL,61.98,0.51,5.108,5.754,158.92
+UWM Holdings Corporation,UWMC,5.72,0.38,5.11,10.56,44.04
+"Lumen Technologies, Inc.",LUMN,3.98,0.14,5.086,4.075,
+GameStop Corp.,GME,22.35,-0.27,5.021,9.988,67.7
